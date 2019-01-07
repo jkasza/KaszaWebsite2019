@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Jessica Kasza</title>
+    <link>/tags/about/</link>
+    <description>Recent content in about on Jessica Kasza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Methods Publications</title>
+      <link>/home/publicationlist/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publicationlist/</guid>
+      <description>J Kasza, KR Polkinghorne, R Wolfe, SP McDonald, MR Marshall. Comparing dialysis centre mortality outcomes across Australia and New Zealand: identifying unusually performing centres 2008–2013. BMC Health Services Research. Accepted December 2018.  Open access paper 
+ J Kasza, A Forbes. Inference for the treatment effect in multiple-period cluster randomised trials when random effect correlation structure is misspecified. Statistical Methods in Medical Research. Accepted September 2018.  Shiny app  Click here for a poster summarising this paper, runner-up for best poster pitch at ISCB ASC 2018.</description>
+    </item>
+    
+    <item>
+      <title>Collaborative Publications</title>
+      <link>/home/publicationlistcollab/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publicationlistcollab/</guid>
+      <description>2017  KL Paterson, J Kasza, DJ Hunter, RS Hinman, HB Menz, G Peat, KL Bennell. Longitudinal association between foot and ankle symptoms and worsening of symptomatic radiographic knee osteoarthritis: data from the osteoarthritis initiative. Osteoarthritis and Cartilage, (2017) 25(9):1407-1413. DR McIlroy, D Murphy, J Kasza, D Bhatia, L Wutzlhofer, S Marasco. Effects of restricting perioperative use of intravenous chloride on kidney injury in patients undergoing cardiac surgery: the LICRA pragmatic controlled trial.</description>
+    </item>
+    
+    <item>
+      <title>Selected presentations</title>
+      <link>/home/prezzies/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/home/prezzies/</guid>
+      <description>Society for Clinical Trials, Portland USA, May 2018.  Misspecifying within-cluster correlation structure in stepped wedge trials.  Society for Clinical Trials &amp;amp; 4th International Clinical Trials Methodology Conference, Liverpool UK, May 2017.  Information content of cluster-periods in stepped wedge trials.  Australian Statistics Conference, Canberra, December 2016.  Causal diagrams, expert opinion and structure learning: vetting the expert.  37th Annual Conference of the International Society for Clinical Biostatistics, Birmingham UK, August 2016.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>/home/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/cv/</guid>
+      <description> Click here for my CV.  </description>
+    </item>
+    
+  </channel>
+</rss>

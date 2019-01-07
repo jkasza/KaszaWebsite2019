@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jessica Kasza</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Jessica Kasza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 06 Jan 2019 00:00:00 +1100</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Causal Inference</title>
+      <link>/project/causalinference/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/project/causalinference/</guid>
+      <description>Several of my papers have involved the development of causal inference methodology.
+ R Herbert, J Kasza, K Bo. Analysis of randomised trials with long-term follow up. BMC Medical Research Methodology. 2018; 18(48)  Open access paper 
+ J Kasza, R Wolfe, T Schuster. Assessing the impact of unmeasured confounding for binary outcomes using confounding functions. International Journal of Epidemiology. Accepted 26 January 2017.  Winner of the 2018 Monash University John McNeil Early Career Researcher Publication Prize for Public Health Research</description>
+    </item>
+    
+    <item>
+      <title>Healthcare provider comparison</title>
+      <link>/project/providercomparison/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/project/providercomparison/</guid>
+      <description>I have developed statistical methods for the investigation of healthcare provider performance, and investigated the performance of intensive care units, dialysis centres, and have critiqued the comparison of anaesthetists.
+ J Kasza, KR Polkinghorne, R Wolfe, SP McDonald, MR Marshall. Comparing dialysis centre mortality outcomes across Australia and New Zealand: identifying unusually performing centres 2008–2013. BMC Health Services Research. Accepted December 2018.  Open access paper  J Kasza, JL Moran and PJ Solomon.</description>
+    </item>
+    
+    <item>
+      <title>Multiple period cluster randomised trials</title>
+      <link>/project/multipleperiodcrts/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/project/multipleperiodcrts/</guid>
+      <description>My work in multiple-period cluster randomised trials has been focussed on increasing our understanding of the statistical aspects of these designs, and the development of more realistic within-cluster correlation structures.
+ J Kasza, A Forbes. Inference for the treatment effect in multiple-period cluster randomised trials when random effect correlation structure is misspecified. Statistical Methods in Medical Research. Accepted September 2018.  Shiny app  Click here for a poster summarising this paper, runner-up for best poster pitch at ISCB ASC 2018.</description>
+    </item>
+    
+  </channel>
+</rss>

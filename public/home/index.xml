@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Jessica Kasza</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Jessica Kasza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 18 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>About me I&amp;rsquo;m a biostatistician in the Department of Epidemiology and Preventive Medicine at Monash University, in Melbourne, Australia, and I&amp;rsquo;m part of ViCBiostat: the Victorian Centre for Biostatistics, an NHMRC-funded Centre for Research Excellence. I&amp;rsquo;m currently the President of the Victorian Branch of the Statistical Society of Australia. We hold seminars every month: see our meetup page for details of upcoming events. I was on the Local organising and Scientific Programme committees of the 2018 Joint International Society for Clinical Biostatistics and Australian Statistical Conference, which took place in Melbourne from the 26-30 of August 2018.</description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods Publications</title>
+      <link>/home/publicationlist/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publicationlist/</guid>
+      <description>J Kasza, KR Polkinghorne, R Wolfe, SP McDonald, MR Marshall. Comparing dialysis centre mortality outcomes across Australia and New Zealand: identifying unusually performing centres 2008–2013. BMC Health Services Research. Accepted December 2018.  Open access paper 
+ J Kasza, A Forbes. Inference for the treatment effect in multiple-period cluster randomised trials when random effect correlation structure is misspecified. Statistical Methods in Medical Research. Accepted September 2018.  Shiny app  Click here for a poster summarising this paper, runner-up for best poster pitch at ISCB ASC 2018.</description>
+    </item>
+    
+    <item>
+      <title>Collaborative Publications</title>
+      <link>/home/publicationlistcollab/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publicationlistcollab/</guid>
+      <description>2017  KL Paterson, J Kasza, DJ Hunter, RS Hinman, HB Menz, G Peat, KL Bennell. Longitudinal association between foot and ankle symptoms and worsening of symptomatic radiographic knee osteoarthritis: data from the osteoarthritis initiative. Osteoarthritis and Cartilage, (2017) 25(9):1407-1413. DR McIlroy, D Murphy, J Kasza, D Bhatia, L Wutzlhofer, S Marasco. Effects of restricting perioperative use of intravenous chloride on kidney injury in patients undergoing cardiac surgery: the LICRA pragmatic controlled trial.</description>
+    </item>
+    
+    <item>
+      <title>Selected presentations</title>
+      <link>/home/prezzies/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/home/prezzies/</guid>
+      <description>Society for Clinical Trials, Portland USA, May 2018.  Misspecifying within-cluster correlation structure in stepped wedge trials.  Society for Clinical Trials &amp;amp; 4th International Clinical Trials Methodology Conference, Liverpool UK, May 2017.  Information content of cluster-periods in stepped wedge trials.  Australian Statistics Conference, Canberra, December 2016.  Causal diagrams, expert opinion and structure learning: vetting the expert.  37th Annual Conference of the International Society for Clinical Biostatistics, Birmingham UK, August 2016.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>/home/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/cv/</guid>
+      <description> Click here for my CV.  </description>
+    </item>
+    
+  </channel>
+</rss>
