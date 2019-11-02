@@ -19,7 +19,10 @@ date: 2017-07-19
         </ul>
 1. **J Kasza**, A Forbes. Information content of cluster-period cells in stepped wedge trials. *Biometrics*. Accepted August 2018.
         <ul>
+            <li>[Paper available here](https://onlinelibrary.wiley.com/doi/10.1111/biom.12959)</li>
             <li>[Shiny app](https://monash-biostat.shinyapps.io/informationcontent/)</li>
+            <li>Winner of the 2019 Monash University John McNeil Early Career Researcher Publication Prize for Public Health Research</li>
+            <li>[International Biometrics Society Journal Club, February 2020](https://www.biometricsociety.org/education/journal-club/)</li>
         </ul>
 1. R Herbert, **J Kasza**, K Bo. Analysis of randomised trials with long-term follow up. *BMC Medical Research Methodology*. 2018; 18(48)
         <ul>
@@ -31,6 +34,10 @@ date: 2017-07-19
             <li>[Code](https://github.com/jkasza/NonUniformCorrelation)</li>
         </ul>
 1. **J Kasza**, R Wolfe, T Schuster. [Assessing the impact of unmeasured confounding for binary outcomes using confounding functions.](https://academic.oup.com/ije/article-abstract/doi/10.1093/ije/dyx023/3061539/Assessing-the-impact-of-unmeasured-confounding-for?redirectedFrom=fulltext) *International Journal of Epidemiology*. Accepted 26 January 2017. 
+<ul>
+            <li>Winner of the 2018 Monash University John McNeil Early Career Researcher Publication Prize for Public Health Research</li>
+        </ul>
+
 1. C Oates\*, **J Kasza**\*, JA Simpson, A Forbes. (\*Joint first authors) [Repair of partly misspecified causal diagrams.](http://journals.lww.com/epidem/Abstract/2017/07000/Repair_of_Partly_Misspecified_Causal_Diagrams.12.aspx) *Epidemiology*.  28(4):548–552.
         <ul>
             <li>[Video](https://www.youtube.com/watch?v=1bRrDGCeTAI)
