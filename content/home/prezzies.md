@@ -8,11 +8,11 @@ date: 2017-07-17
 ---
 1. Pragmatic cluster randomised trial designs workshop, Melbourne November 2019.
         <ul>
-            <li>[Comparative efficiency of different cluster designs in practice](\pdf\DifferentClusterDesigns.pdf).</li>
+            <li>[Comparative efficiency of different cluster designs in practice](/pdf/DifferentClusterDesigns.pdf).</li>
         </ul>
 1. Society for Clinical Trials, Portland USA, May 2018.
         <ul>
-            <li>[Misspecifying within-cluster correlation structure in stepped wedge trials](\pdf\SCT2018_Kasza_V2.pdf).</li>
+            <li>[Misspecifying within-cluster correlation structure in stepped wedge trials](/pdf/SCT2018_Kasza_V2.pdf).</li>
         </ul>
 1. Society for Clinical Trials \& 4th International Clinical Trials Methodology Conference, Liverpool UK, May 2017.
         <ul>
