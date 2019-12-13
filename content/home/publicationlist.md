@@ -6,34 +6,61 @@ comments: false
 date: 2017-07-19
 
 ---
+1. M McGuinness, **J Kasza**, A Karahalios, R Guymer, RP Finger, JA Simpson. [A comparison of methods to estimate the survivor average causal effect in the presence of missing data: a simulation study.](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0874-x) *BMC Medical Research Methodology*, (2019) 19:223.  
 
-1. **J Kasza**, KR Polkinghorne, R Wolfe, SP McDonald, MR Marshall. Comparing dialysis centre mortality outcomes across Australia and New Zealand: identifying unusually performing centres 2008–2013. *BMC Health Services Research*. Accepted December 2018.
+
+1. K Grantham,  **J Kasza**, S Heritier, K Hemming,  E Litton, A Forbes. How many times should a cluster randomized crossover trial cross over? *Statistics in Medicine*. 2019:38(25);5021-5033.
         <ul>
-            <li>[Open access paper](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-018-3832-0)</li>
+        <li>[Paper available here](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.8349)</li>
+            <li>[Shiny app](https://monash-biostat.shinyapps. io/HowManyCrossovers/)</li>
+            <li> [Code](https://github.com/klgrantham/optimal-design/)</li>
         </ul>
 
-1. **J Kasza**, A Forbes. Inference for the treatment effect in multiple-period cluster randomised trials when random effect correlation structure is misspecified. *Statistical Methods in Medical Research*. Accepted September 2018.
+1. **J Kasza**, M Taljaard, A Forbes. Information content of stepped-wedge designs when treatment effect heterogeneity and/or implementation periods are present. *Statistics in Medicine*. Accepted 2019.
         <ul>
+          <li>[Shiny app](https://monash-biostat.shinyapps.io/InfContentRedux/)</li>
+        </ul>
+1. K Grantham, A Forbes, S Heritier, **J Kasza**. Time Parameterizations in Cluster Randomized Trial Planning. *The American Statistician*. Accepted 2019.
+        <ul>
+        <li>[Paper available here](https://doi.org/10.1080/00031305.2019.1623072/)</li>
+        </ul>
+1. K Grantham, **J Kasza**, S Heritier, K Hemming, A Forbes. Accounting for a decaying correlation structure in cluster randomized trials with continuous recruitment. *Statistics in Medicine*. 2019:38(11);1918-1934.
+        <ul>
+        <li>[Paper available here](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.8089)</li>
+            <li>[Shiny app](https://monash-biostat.shinyapps. io/contstimedecay/)</li>
+            <li> [Code](https://github.com/klgrantham/conts-time-decay/)</li>
+        </ul>
+
+1. **J Kasza**, A Forbes. Inference for the treatment effect in multiple-period cluster randomised trials when random effect correlation structure is misspecified. *Statistical Methods in Medical Research*. (2019) 28(10-11):3112-3122.
+        <ul>
+            <li>[Journal version of paper](https://journals.sagepub.com/doi/abs/10.1177/0962280218797151) </li>
             <li>[Shiny app](https://monash-biostat.shinyapps.io/MisspecCorrStruct/)</li>
             <li> [Click here for a poster summarising this paper, runner-up for best poster pitch at ISCB ASC 2018.](/pdf/poster.pdf)</li>
+            <li>Winner of the 2019 Alfred Research Alliance EMCR Public Health and Clinical Research Best Paper Award.</li>
         </ul>
-1. **J Kasza**, A Forbes. Information content of cluster-period cells in stepped wedge trials. *Biometrics*. Accepted August 2018.
+1. **J Kasza**, A Forbes. Information content of cluster-period cells in stepped wedge trials. *Biometrics*. (2019) 75(1):144-152.
         <ul>
             <li>[Paper available here](https://onlinelibrary.wiley.com/doi/10.1111/biom.12959)</li>
             <li>[Shiny app](https://monash-biostat.shinyapps.io/informationcontent/)</li>
-            <li>Winner of the 2019 Monash University John McNeil Early Career Researcher Publication Prize for Public Health Research</li>
+            <li>[Winner of the 2019 Monash University John McNeil Early Career Researcher Publication Prize for Public Health Research](https://bdi-newsletter.com/wp-content/uploads/2019/11/2019-ECR-and-ECR-Fellows-Publication-Prize-Winners.pdf)</li>
             <li>[International Biometrics Society Journal Club, February 2020](https://www.biometricsociety.org/education/journal-club/)</li>
         </ul>
+
+1. **J Kasza**, KR Polkinghorne, R Wolfe, SP McDonald, MR Marshall. Comparing dialysis centre mortality outcomes across Australia and New Zealand: identifying unusually performing centres 2008–2013. *BMC Health Services Research*. (2018) 18:1007.
+        <ul>
+            <li>[Open access paper](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-018-3832-0)</li>
+        </ul>
+      
 1. R Herbert, **J Kasza**, K Bo. Analysis of randomised trials with long-term follow up. *BMC Medical Research Methodology*. 2018; 18(48)
         <ul>
             <li>[Open access paper](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-018-0499-5)</li>
         </ul>
-1. **J Kasza**, K Hemming, R Hooper, JNS Matthews, A Forbes. Impact of non-uniform correlation on sample size and power in multiple period cluster randomised trials. *Statistical Methods in Medical Research*. Accepted 25 August 2017.
+1. **J Kasza**, K Hemming, R Hooper, JNS Matthews, A Forbes. Impact of non-uniform correlation on sample size and power in multiple period cluster randomised trials. *Statistical Methods in Medical Research*. (2019) 28(3):703-716.
         <ul>
             <li>[Shiny app](https://monash-biostat.shinyapps.io/NonUniformCorrelation)</li>
             <li>[Code](https://github.com/jkasza/NonUniformCorrelation)</li>
         </ul>
-1. **J Kasza**, R Wolfe, T Schuster. [Assessing the impact of unmeasured confounding for binary outcomes using confounding functions.](https://academic.oup.com/ije/article-abstract/doi/10.1093/ije/dyx023/3061539/Assessing-the-impact-of-unmeasured-confounding-for?redirectedFrom=fulltext) *International Journal of Epidemiology*. Accepted 26 January 2017. 
+1. **J Kasza**, R Wolfe, T Schuster. [Assessing the impact of unmeasured confounding for binary outcomes using confounding functions.](https://academic.oup.com/ije/article-abstract/doi/10.1093/ije/dyx023/3061539/Assessing-the-impact-of-unmeasured-confounding-for?redirectedFrom=fulltext) *International Journal of Epidemiology*. (2017) 46(4):1303–1311. 
 <ul>
             <li>Winner of the 2018 Monash University John McNeil Early Career Researcher Publication Prize for Public Health Research</li>
         </ul>

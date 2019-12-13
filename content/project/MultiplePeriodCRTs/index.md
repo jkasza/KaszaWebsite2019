@@ -47,6 +47,15 @@ url_code = ""
 My work in longitudinal cluster randomised trials has been focussed on increasing our understanding of the statistical aspects of these designs, and the development of more realistic within-cluster correlation structures. I am part of an International Network on Innovative Cluster Randomised Trials: more information available [here](https://clustertrials-research.netlify.com/). Please get in touch if you would like copies of any of these papers. 
 
 
+1. K Grantham, **J Kasza**, S Heritier, K Hemming,  E Litton, A Forbes. How many times should a cluster randomized crossover trial cross over? *Statistics in Medicine*. 2019:38(25);5021-5033.
+        <ul>
+        <li>[Paper available here](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.8349)</li>
+            <li>[Shiny app](https://monash-biostat.shinyapps. io/HowManyCrossovers/)</li>
+            <li> [Code](https://github.com/klgrantham/optimal-design/)</li>
+            <li>I spoke about this work in an ACTA webinar, recording available [here.](https://clinicaltrialsalliance.org.au/resource/acta-hackathon-of-novel-trial-designs-part-two/)</li>
+        </ul>
+
+
 1. **J Kasza**, M Taljaard, A Forbes. Information content of stepped-wedge designs when treatment effect heterogeneity and/or implementation periods are present. *Statistics in Medicine*. Accepted 2019.
         <ul>
           <li>[Shiny app](https://monash-biostat.shinyapps.io/InfContentRedux/)</li>
@@ -61,18 +70,21 @@ My work in longitudinal cluster randomised trials has been focussed on increasin
             <li>[Shiny app](https://monash-biostat.shinyapps. io/contstimedecay/)</li>
             <li> [Code](https://github.com/klgrantham/conts-time-decay/)</li>
         </ul>
-1. **J Kasza**, A Forbes. Inference for the treatment effect in multiple-period cluster randomised trials when random effect correlation structure is misspecified. *Statistical Methods in Medical Research*. Accepted September 2018.
+1. **J Kasza**, A Forbes. Inference for the treatment effect in multiple-period cluster randomised trials when random effect correlation structure is misspecified. *Statistical Methods in Medical Research*. (2019) 28(10-11):3112-3122.
         <ul>
-        <li>[Paper available here](https://journals.sagepub.com/doi/abs/10.1177/0962280218797151)</li>
+            <li>[Journal version of paper](https://journals.sagepub.com/doi/abs/10.1177/0962280218797151) </li>
             <li>[Shiny app](https://monash-biostat.shinyapps.io/MisspecCorrStruct/)</li>
             <li> [Click here for a poster summarising this paper, runner-up for best poster pitch at ISCB ASC 2018.](/pdf/poster.pdf)</li>
+            <li>Winner of the 2019 Alfred Research Alliance EMCR Public Health and Clinical Research Best Paper Award.</li>
         </ul>
-1. **J Kasza**, A Forbes. Information content of cluster-period cells in stepped wedge trials. *Biometrics*. 2019;75(1):144-152.
+1. **J Kasza**, A Forbes. Information content of cluster-period cells in stepped wedge trials. *Biometrics*. (2019) 75(1):144-152.
         <ul>
-        <li>[Paper available here](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.12959)</li>
+            <li>[Paper available here](https://onlinelibrary.wiley.com/doi/10.1111/biom.12959)</li>
             <li>[Shiny app](https://monash-biostat.shinyapps.io/informationcontent/)</li>
+            <li>[Winner of the 2019 Monash University John McNeil Early Career Researcher Publication Prize for Public Health Research](https://bdi-newsletter.com/wp-content/uploads/2019/11/2019-ECR-and-ECR-Fellows-Publication-Prize-Winners.pdf)</li>
+            <li>[International Biometrics Society Journal Club, February 2020](https://www.biometricsociety.org/education/journal-club/)</li>
         </ul>
-
+        
 1. **J Kasza**, K Hemming, R Hooper, JNS Matthews, A Forbes. Impact of non-uniform correlation on sample size and power in multiple period cluster randomised trials. *Statistical Methods in Medical Research*. 2019;28(3):703-716.
         <ul>
             <li>[Paper available here](https://journals.sagepub.com/doi/abs/10.1177/0962280217734981)</li>
