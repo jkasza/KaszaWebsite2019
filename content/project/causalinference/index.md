@@ -28,6 +28,8 @@ external_link = ""
 
 Several of my papers have involved the development of causal inference methodology. 
 
+1. M McGuinness, **J Kasza**, A Karahalios, R Guymer, RP Finger, JA Simpson. [A comparison of methods to estimate the survivor average causal effect in the presence of missing data: a simulation study.](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0874-x) *BMC Medical Research Methodology*, (2019) 19:223.  
+
 1. R Herbert, **J Kasza**, K Bo. Analysis of randomised trials with long-term follow up. *BMC Medical Research Methodology*. 2018; 18(48)
         <ul>
             <li>[Open access paper](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-018-0499-5)</li>
