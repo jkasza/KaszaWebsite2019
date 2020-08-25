@@ -35,7 +35,7 @@ weight = 1
 
 # About me
 
-I'm a biostatistician in the Department of Epidemiology and Preventive Medicine at Monash University, in Melbourne, Australia, and I'm part of [ViCBiostat](http://www.vicbiostat.org.au/): the Victorian Centre for Biostatistics, an NHMRC-funded Centre for Research Excellence. I'm the Vice President of the Victorian Branch of the [Statistical Society of Australia](http://www.statsoc.org.au/), and Vice President nationally. The Vic Branch of the Statistical Society holds seminars every month: see our [meetup page](https://www.meetup.com/Statistical-Society-of-Australia-Victorian-Branch/) for details of upcoming events. I'm on the organising committee of the [2020 Women in Mathematical and Statistical Sciences Conference](https://www.austms.org.au/tiki-index.php?page=WIMSIG-conference-2020), to be held at Monash University, October 1-2, 2020. 
+I'm a biostatistician in the Department of Epidemiology and Preventive Medicine at Monash University, in Melbourne, Australia, and I'm part of [ViCBiostat](http://www.vicbiostat.org.au/): the Victorian Centre for Biostatistics. I'm the President of the [Statistical Society of Australia](http://www.statsoc.org.au/), and am dedicated to ensuring that the statistical community in Australia is welcoming, respectful and inclusive. 
 
 My colleagues and I recently wrote about the importance of fostering biostatistics research for the success of research in health and medicine. Our article is freely available from the Medical Journal of Australia [here.](https://www.mja.com.au/journal/2019/211/10/biostatistics-fundamental-discipline-core-modern-health-data-science)
 

@@ -6,6 +6,16 @@ comments: false
 date: 2017-07-17
 
 ---
+1. International Society for Clinical Biostatistics 2020.
+        <ul>
+            <li>[Information content of cluster-period cells in stepped wedge designs with unequal cell sizes](/pdf/Kasza_ISCB2020.pdf).</li>
+        </ul>
+        
+1. International Biometrics Society Journal Club invited speaker.
+        <ul>
+            <li>[Information content of cluster-period cells in stepped wedge trials](/pdf/Kasza_InformationContent.pdf).</li>
+        </ul>
+        
 1. Pragmatic cluster randomised trial designs workshop, Melbourne November 2019.
         <ul>
             <li>[Comparative efficiency of different cluster designs in practice](/pdf/DifferentClusterDesigns.pdf).</li>
